@@ -4,14 +4,14 @@ function About() {
    <section id="about" class="avatar-about mt-5 p-5">
       <div class="container">
         <div class="row">
-          <div class=" avatar col-sm-12 col-md-12 col-lg-3">
-            <div class="avatar-img">
+          <div class=" avatar pb-sm-4 col-sm-12 col-md-12 col-lg-3 pt-lg-1">
+            <div class="avatar-img text-center">
               <img class="img-fluid" src="/images/avatar.png" alt="" width="200" height="200"/>
             </div>
           </div>
-          <div class="info col-sm-12 col-md-12 col-lg-7">
+          <div class="info col-sm-6 col-md-10 col-lg-7">
             <div class="about">
-              <h3 class="pb-4">About Me</h3>
+              <h3 class="pb-4 ">About Me</h3>
               <h4 class="my-name">Tamir Chen</h4>
               <p class="profession">FULL-STACK DEVELOPER &amp; UX/UI DESIGNER</p>
               <p class="profession">MUSIC PRODUCER &amp; SOUND TECH</p>
